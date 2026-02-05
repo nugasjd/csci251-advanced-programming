@@ -1,0 +1,6 @@
+ID		Name		test1	test2
+345:	student1:	8:		5
+234:	student2:	5:		7
+456:	student3:	7:		5
+435:	student4:	9:		8
+678:	student5:	5:		4

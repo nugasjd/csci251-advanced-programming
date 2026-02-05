@@ -1,0 +1,3 @@
+Overall Python is better than C++ in terms of its simplicity and easy syntax. 
+But C++ is better in terms of performance, speed, vast application areas. 
+Teacher said better easy syntax I doubt it. 

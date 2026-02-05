@@ -1,0 +1,6 @@
+super we are learning string class:
+- constructors
+- overloaded operator
+- methods (services) : substr, find, replace, etc.
+
+string class is safe

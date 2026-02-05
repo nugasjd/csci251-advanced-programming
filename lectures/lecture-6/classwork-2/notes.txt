@@ -1,0 +1,2 @@
+A text file with plain text will be encrypted and decrypted.
+Adding more text hehe.

@@ -1,0 +1,6 @@
+id          Name        avg
+786567 Alia Alia 7 6 5 9
+693234 AbediAbedi 6 9 4 9.5
+961903 marouanrouan 5 4 9 9
+567892 ManalManal 9 9 3 10.5
+124567 horia_MarkiMarki 8 9 5 11
